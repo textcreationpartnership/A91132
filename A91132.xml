@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and sad relation of divers passages in Somersetshire, between the county and the cavaleers concerning the militia, and the Commission of Array, August 5. 1642. Wherein some were slaine, others distracted, and the town of Wells taken by the cavaleers, and since besieged by the countrey. With the votes of the Lords and Commons concerning divers delinquents in that action. Iohn Brown Cler. Parliament.</title>
+            <author>Prowd, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91132</idno>
+            <idno type="STC">Wing P3878A</idno>
+            <idno type="STC">Thomason E109_34</idno>
+            <idno type="STC">ESTC R9125</idno>
+            <idno type="EEBO-CITATION">99873474</idno>
+            <idno type="PROQUEST">99873474</idno>
+            <idno type="VID">125950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and sad relation of divers passages in Somersetshire, between the county and the cavaleers concerning the militia, and the Commission of Array, August 5. 1642. Wherein some were slaine, others distracted, and the town of Wells taken by the cavaleers, and since besieged by the countrey. With the votes of the Lords and Commons concerning divers delinquents in that action. Iohn Brown Cler. Parliament.</title>
+                  <author>Prowd, Joseph.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[2], 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. N. for Ed. Blackmore, and Richard Lownds,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. August. 9.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymously published by Joseph Prowd -- Cf. DNB.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Commissions of array --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125950:1" rendition="simple:additions"/>
+            <p>A TRVE AND SAD RELATION Of divers paſſages in Somerſet<g ref="char:EOLhyphen"/>ſhire, between the Country and the Ca<g ref="char:EOLhyphen"/>valeers concerning the <hi>Militia,</hi> and the Commiſſion of <hi>Array, Auguſt.</hi> 5. 1642.</p>
+            <p>Wherein ſome were ſlaine, others diſtracted, and the Town of <hi>Wells</hi> taken by the Ca<g ref="char:EOLhyphen"/>valeers, and ſince beſieged by the Countrey.</p>
+            <p>With the Votes of the Lords and Com<g ref="char:EOLhyphen"/>mons concerning divers Delin<g ref="char:EOLhyphen"/>quents in that Action.</p>
+            <p>
+               <hi>Iohn Brown</hi> Cler. Parliament.</p>
+            <p>LONDON, Printed by <hi>A. N.</hi> for <hi>Ed. Blackmore,</hi> and <hi>Richard Lownds,</hi> 1642.</p>
+            <p>Auguſt. 9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125950:2"/>
+            <pb n="1" facs="tcp:125950:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Long to hear from you, in regard I muſt informe you of the great miſery this Countrey is in, the Cavaleers in <hi>Somerſetſhire</hi> have u<g ref="char:EOLhyphen"/>ſed violence on the Yeomanry, and have tur<g ref="char:EOLhyphen"/>ned them out of doores, and take their arms from them, the people ſeeing it could not ſuf<g ref="char:EOLhyphen"/>fer it, For if they prevaile now they think they ſhall be ſlaves for ever. For the Lord <hi>Pawlet</hi> hath declared that it is not fit for any Country Yeoman to have above ten pound a yeere: the people murmured much at him: the malig<g ref="char:EOLhyphen"/>nant part have as it were proclaimed war al<g ref="char:EOLhyphen"/>ready, For place of Randevouz is <hi>Wells,</hi> this Week the people came in daily. For the <hi>Militia</hi> yeſterday was appointed, at the meeting there came in thirty thouſand, for the <hi>Militia,</hi> there is five hundred gone out of <hi>Briſtoll,</hi> they went yeſterday morning, and are not returned yet,
+<pb n="2" facs="tcp:125950:3"/>it is but twelve miles where the Army lies, there is like to be fearfull times here. There came in on Thurſday night againſt Friday, a hundred men for the <hi>Militia,</hi> they being few in reſpect of the malignant party, they went out of <hi>Wells,</hi> and killed ſome, and tooke the reſt, for the number it is but few that were killed, they are mercileſſe men, they care not what they doe: the Deputy-Lievtenants have demanded their priſoners but cannot have them: they have all ihis night beene planting Ordnance againſt <hi>Wells,</hi> and wil certainly bat<g ref="char:EOLhyphen"/>ter down the town unleſſe they deliver them: there is like to be great bloudſhedding; the people have reſolued rather to loſe their lives then to be ſlaves, the people have bin out this two dayes and two nights, and have not time to refreſh themſelves, the place to meet at is on Mendip: the Cavaliers faild their promiſe, and did not appeare yeſterday, in regard of the many that came againſt them: you would admire to ſee what weapons the people got for want of Armes: there is not two thouſand of the Advers party: the chiefe are the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Hartford,</hi> the Lord <hi>Paulet,</hi> ſir <hi>Ralph
+<pb n="3" facs="tcp:125950:3"/>Hopon,</hi> ſir <hi>Francis Dorington,</hi> &amp; Maſter <hi>Smith</hi> for the Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liament, There is ſir <hi>Francis Poppam</hi> and his ſonne, ſir <hi>Iohn Horner,</hi> Maſter <hi>Richard Col<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi> Maſter <hi>Sirood,</hi> Maſter <hi>Pine,</hi> ſir <hi>Edward Hun<g ref="char:EOLhyphen"/>gerford,</hi> ſir <hi>Edward Gainton;</hi> There comes in for their aſſiſtance, <hi>Gloceſter, Wilts, Dorſet,</hi> and <hi>De<g ref="char:EOLhyphen"/>vo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſhires, Maſter <hi>Alexander Poppam</hi> beſtirres himſelfe bravely: our well affected people in the Town have ſent three or foure field peeces to him, and much Armes, Lord grant them a good ſucceſſe; This evening will produce much newes, I wiſh it may be for the beſt. I pray let me heare from you of that buſineſſe I wrote of, ſo for this preſent I reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Yours ever to be Commanded</hi> Ioſeph Prowd. <hi>Briſtoll</hi>
+               </signed> 
+               <dateline>
+                  <date>Auguſt 5. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="resolutions">
+            <pb facs="tcp:125950:4"/>
+            <head>Die Veneris 5 Auguſt, 1642.</head>
+            <head type="sub">Reſolved upon the Queſtion by the Lords and Commons in Parliament.</head>
+            <p>THat Sir <hi>Ralph Hopton.</hi> M. <hi>Tho. Smith, and</hi> Captaine <hi>Iohn Digby</hi> ſhall be diſabled to ſit as Members of the Houſe of Commons during this Parliament.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi> That Captaine <hi>Iohn Digby</hi> be forth with ſent for as Delin<g ref="char:EOLhyphen"/>quent.</p>
+            <p>
+               <hi>Reſolved &amp;c.</hi> That Sir <hi>Ralph Hopton,</hi> Mr. <hi>Tho. Smith,</hi> Sir <hi>Ferdinand Gorges,</hi> and Sir <hi>Francis Dodington</hi> be forthwith ſent for as Delinquents.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi> That <hi>Richard Board. Hercules Whiting, Nicholas Dounton, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes Stroud, Iohn Walker,</hi> and <hi>John Cooth,</hi> the Parſon of <hi>Shipton<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e forthwith ſent for as Delinquents.</p>
+         </div>
+         <div type="text">
+            <opener>ORDERED,</opener>
+            <p>THat the High Sheriffe of the County of <hi>Somerſet,</hi> and the Deputy-Lievtenants and Committees of the ſame County, and the Forces that ſhall be ſent downe to the aſſiſtance of the ſaid Deputy-Lievienants, and Comittee, be all required to uſe their beſt endeavours for the apprehending and ſending up to the Parliament the Delinquents voted of that County.</p>
+            <closer>
+               <dateline>
+                  <date>August.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:125950:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
